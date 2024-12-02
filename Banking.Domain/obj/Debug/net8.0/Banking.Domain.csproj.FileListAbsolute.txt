@@ -1,0 +1,11 @@
+C:\Users\as\source\repos\oop-assignment-3-a-2024-71034\Banking.Domain\bin\Debug\net8.0\Banking.Domain.deps.json
+C:\Users\as\source\repos\oop-assignment-3-a-2024-71034\Banking.Domain\bin\Debug\net8.0\Banking.Domain.dll
+C:\Users\as\source\repos\oop-assignment-3-a-2024-71034\Banking.Domain\bin\Debug\net8.0\Banking.Domain.pdb
+C:\Users\as\source\repos\oop-assignment-3-a-2024-71034\Banking.Domain\obj\Debug\net8.0\Banking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\as\source\repos\oop-assignment-3-a-2024-71034\Banking.Domain\obj\Debug\net8.0\Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\as\source\repos\oop-assignment-3-a-2024-71034\Banking.Domain\obj\Debug\net8.0\Banking.Domain.AssemblyInfo.cs
+C:\Users\as\source\repos\oop-assignment-3-a-2024-71034\Banking.Domain\obj\Debug\net8.0\Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\as\source\repos\oop-assignment-3-a-2024-71034\Banking.Domain\obj\Debug\net8.0\Banking.Domain.dll
+C:\Users\as\source\repos\oop-assignment-3-a-2024-71034\Banking.Domain\obj\Debug\net8.0\refint\Banking.Domain.dll
+C:\Users\as\source\repos\oop-assignment-3-a-2024-71034\Banking.Domain\obj\Debug\net8.0\Banking.Domain.pdb
+C:\Users\as\source\repos\oop-assignment-3-a-2024-71034\Banking.Domain\obj\Debug\net8.0\ref\Banking.Domain.dll
