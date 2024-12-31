@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\as\\source\\repos\\oop-assignment-3-a-2024-71034\\Banking.Console\\Banking.Console.csproj": {}
+    "C:\\Users\\as\\Desktop\\oop-assignment-3-a-2024-71034\\oop-assignment-3-a-2024-71034\\Banking.Console\\Banking.Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\as\\source\\repos\\oop-assignment-3-a-2024-71034\\Banking.Console\\Banking.Console.csproj": {
+    "C:\\Users\\as\\Desktop\\oop-assignment-3-a-2024-71034\\oop-assignment-3-a-2024-71034\\Banking.Console\\Banking.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\as\\source\\repos\\oop-assignment-3-a-2024-71034\\Banking.Console\\Banking.Console.csproj",
+        "projectUniqueName": "C:\\Users\\as\\Desktop\\oop-assignment-3-a-2024-71034\\oop-assignment-3-a-2024-71034\\Banking.Console\\Banking.Console.csproj",
         "projectName": "Banking.Console",
-        "projectPath": "C:\\Users\\as\\source\\repos\\oop-assignment-3-a-2024-71034\\Banking.Console\\Banking.Console.csproj",
+        "projectPath": "C:\\Users\\as\\Desktop\\oop-assignment-3-a-2024-71034\\oop-assignment-3-a-2024-71034\\Banking.Console\\Banking.Console.csproj",
         "packagesPath": "C:\\Users\\as\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\as\\source\\repos\\oop-assignment-3-a-2024-71034\\Banking.Console\\obj\\",
+        "outputPath": "C:\\Users\\as\\Desktop\\oop-assignment-3-a-2024-71034\\oop-assignment-3-a-2024-71034\\Banking.Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\as\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\as\\source\\repos\\oop-assignment-3-a-2024-71034\\Banking.Domain\\Banking.Domain.csproj": {
-                "projectPath": "C:\\Users\\as\\source\\repos\\oop-assignment-3-a-2024-71034\\Banking.Domain\\Banking.Domain.csproj"
+              "C:\\Users\\as\\Desktop\\oop-assignment-3-a-2024-71034\\oop-assignment-3-a-2024-71034\\Banking.Domain\\Banking.Domain.csproj": {
+                "projectPath": "C:\\Users\\as\\Desktop\\oop-assignment-3-a-2024-71034\\oop-assignment-3-a-2024-71034\\Banking.Domain\\Banking.Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\as\\source\\repos\\oop-assignment-3-a-2024-71034\\Banking.Domain\\Banking.Domain.csproj": {
+    "C:\\Users\\as\\Desktop\\oop-assignment-3-a-2024-71034\\oop-assignment-3-a-2024-71034\\Banking.Domain\\Banking.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\as\\source\\repos\\oop-assignment-3-a-2024-71034\\Banking.Domain\\Banking.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\as\\Desktop\\oop-assignment-3-a-2024-71034\\oop-assignment-3-a-2024-71034\\Banking.Domain\\Banking.Domain.csproj",
         "projectName": "Banking.Domain",
-        "projectPath": "C:\\Users\\as\\source\\repos\\oop-assignment-3-a-2024-71034\\Banking.Domain\\Banking.Domain.csproj",
+        "projectPath": "C:\\Users\\as\\Desktop\\oop-assignment-3-a-2024-71034\\oop-assignment-3-a-2024-71034\\Banking.Domain\\Banking.Domain.csproj",
         "packagesPath": "C:\\Users\\as\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\as\\source\\repos\\oop-assignment-3-a-2024-71034\\Banking.Domain\\obj\\",
+        "outputPath": "C:\\Users\\as\\Desktop\\oop-assignment-3-a-2024-71034\\oop-assignment-3-a-2024-71034\\Banking.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\as\\AppData\\Roaming\\NuGet\\NuGet.Config",
